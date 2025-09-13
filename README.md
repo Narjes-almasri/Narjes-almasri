@@ -73,8 +73,7 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
   </picture>
 </div>
   </picture>
-</div> --> -->
-
+</div> --> 
 
 <!-- Try this simple version first to see if it works -->
 <div align="center">
