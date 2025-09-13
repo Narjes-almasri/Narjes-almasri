@@ -54,7 +54,7 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Narjes-almasri&theme=tokyonight" alt="More Narjes's Stats" /></p>
 </a>
 
-
+<!-- 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narjes-almasri/Narjes-almasri/main/dist/github-contribution-grid-snake-dark.svg" />
@@ -73,4 +73,28 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
   </picture>
 </div>
   </picture>
-</div> -->
+</div> --> -->
+
+
+<!-- Try this simple version first to see if it works -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Narjes-almasri/Narjes-almasri/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- If that doesn't work, try the output folder -->
+<!-- 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Narjes-almasri/Narjes-almasri/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+-->
+
+<!-- Once simple version works, use the fancy dark/light version -->
+<!-- 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narjes-almasri/Narjes-almasri/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Narjes-almasri/Narjes-almasri/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Narjes-almasri/Narjes-almasri/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+-->
