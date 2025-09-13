@@ -1,0 +1,20 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v1.2.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_file: ./output/github-contribution-grid-snake.svg
+
