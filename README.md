@@ -42,12 +42,12 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
 
 📧 Email: narjes.almasrii@gmail.com
 
-
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Narjes-almasri&show_icons=true&theme=tokyonight&cache_seconds=1800" this one for c and pushed times -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Narjes-almasri&show_icons=true&theme=tokyonight&cache_seconds=1800" this one is for push times -->
+ 
 <br>
 <a href="https://github.com/Narjes-almasri/?tab=overview" align="center">
-<p> alt="More Narjes's Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" alt="More Narjes's Stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" /> -->
 </p>
 </a>
 
