@@ -46,8 +46,11 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
  
 <br>
 <a href="https://github.com/Narjes-almasri/?tab=overview" align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Narjes-almasri&show_icons=true&theme=tokyonight" alt="More Narjes's Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Narjes-almasri&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="More Narjes's Stats" /></p>
 </a>
+
+
+
 
 <br>
 <!-- <a href="https://github.com/Narjes-almasri?tab=overview" align="center">
