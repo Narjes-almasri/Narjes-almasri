@@ -12,7 +12,7 @@ where I tackle C programming challenges, dive into Linux systems, and explore th
 
 ## 🛠️ My Tech Stack
 
-- **Languages:** C, C++, JavaScript
+- **Languages:** C, C++, JavaScript , Html ,CSS
 - **Tools:** Git, GitHub, Vim, Linux 🐧, Makefile
 
 ---
