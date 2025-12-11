@@ -44,12 +44,12 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Narjes-almasri&show_icons=true&theme=tokyonight&cache_seconds=1800" this one is for push times -->
  
-<br>
+<!-- <br>
 <a href="https://github.com/Narjes-almasri/?tab=overview" align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" alt="More Narjes's Stats" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" /> -->
-</p>
-</a>
+<!-- </p> -->
+<!-- </a> --> -->
 
 
 
