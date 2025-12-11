@@ -49,7 +49,7 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" alt="More Narjes's Stats" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" /> -->
 <!-- </p> -->
-<!-- </a> --> -->
+<!-- </a> -->
 
 
 
@@ -57,7 +57,7 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
 <br>
 <!-- <a href="https://github.com/Narjes-almasri?tab=overview" align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Narjes-almasri&theme=tokyonight" alt="More Narjes's Stats" /></p>
-</a> -->
+</a>
 
 <!-- 
 <div align="center">
