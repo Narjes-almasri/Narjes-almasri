@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Narjes
+# Hello there, I'm Narjes
 
 ## 🌟 Aspiring Software Engineer | 42 Amman Cadet
 I’m currently training at 42 Amman
