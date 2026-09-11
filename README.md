@@ -131,7 +131,7 @@ I learn by building: writing systems from scratch, analyzing how things work, br
 
 ### Languages
 
-C · C++ · Python · JavaScript · HTML · CSS
+C · C++ · Python · HTML · CSS
 
 ### Systems and Tools
 
