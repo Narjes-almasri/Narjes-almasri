@@ -108,7 +108,7 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
 
 ## Software Engineering Graduate | Cybersecurity Learner
 
-I’m a Software Engineering graduate with a strong foundation in C, C++, JavaScript, Linux, and system programming.
+I’m a Software Engineering graduate with a strong foundation in C, C++, Linux, and system programming.
 
 I’m currently transitioning toward cybersecurity, with a focus on Linux, networking, digital forensics, offensive security, and Python-based security tools.
 
