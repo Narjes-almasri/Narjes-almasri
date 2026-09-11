@@ -1,3 +1,4 @@
+<!--
 # Hello there, I'm Narjes
 
 ## 🌟 Aspiring Software Engineer | 42 Amman Cadet
@@ -47,7 +48,7 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
 <!-- <br>
 <a href="https://github.com/Narjes-almasri/?tab=overview" align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" alt="More Narjes's Stats" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyonight" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narjes-almasri&layout=compact&theme=tokyoniaght" /> -->
 <!-- </p> -->
 <!-- </a> -->
 
@@ -81,9 +82,10 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
 </div> --> 
 
 <!-- Try this simple version first to see if it works -->
-<div align="center">
+<!--<div align="center">
   <img src="https://raw.githubusercontent.com/Narjes-almasri/Narjes-almasri/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+-->
 
 <!-- If that doesn't work, try the output folder -->
 <!-- 
@@ -102,3 +104,90 @@ Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/nar
   </picture>
 </div>
 -->
+# Hello, I'm Narjes 👋
+
+## Software Engineering Graduate | Cybersecurity Learner
+
+I’m a Software Engineering graduate with a strong foundation in C, C++, JavaScript, Linux, and system programming.
+
+I’m currently transitioning toward cybersecurity, with a focus on Linux, networking, digital forensics, offensive security, and Python-based security tools.
+
+I learn by building: writing systems from scratch, analyzing how things work, breaking them, fixing them, and understanding the security concepts behind them.
+
+---
+
+## 🔐 Areas of Focus
+
+- Offensive security and web security
+- Linux and system administration
+- Networking fundamentals
+- Digital forensics
+- Python for security automation
+- System programming and low-level concepts
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+C · C++ · Python · JavaScript · HTML · CSS
+
+### Systems and Tools
+
+Linux · Bash · Git · GitHub · Vim · Make
+
+### Security
+
+Networking · Web Security · Digital Forensics · Log Analysis · Security Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 🔸 [MiniShell](https://github.com/Narjes-almasri/Minishell)
+
+A shell implemented from scratch in C, designed to reproduce core Bash behavior while working with processes, file descriptors, pipes, redirections, and environment variables.
+
+### 🔸 [so_long](https://github.com/Narjes-almasri/so_long)
+
+A 2D tile-based game written in C using MiniLibX, focused on graphics programming, input handling, map validation, and memory management.
+
+### 🔐 [Python for Security](https://github.com/Narjes-almasri/python-for-security)
+
+Python exercises focused on log analysis, regular expressions, failed-login detection, IP extraction, and security automation fundamentals.
+
+---
+
+## 📚 Other Projects
+
+- **Philosophers** — Concurrency, synchronization, and thread management in C
+- **ft_printf** — Custom implementation of the C `printf` function
+- **get_next_line** — Line-by-line file reading using static variables and buffer management
+- **minitalk** — Inter-process communication using UNIX signals
+- **push_swap** — Stack-based sorting using a limited set of operations
+
+---
+
+## 📈 Currently Building
+
+- Python tools for log analysis and security automation
+- Linux and networking skills
+- Digital forensics exercises
+- Offensive security and web security knowledge
+- A stronger foundation in cybersecurity fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/narjes-almasri-7587332a1/)
+- [GitHub](https://github.com/Narjes-almasri)
+- [Email](mailto:narjes.almasrii@gmail.com)
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Narjes-almasri/Narjes-almasri/main/dist/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</div>
